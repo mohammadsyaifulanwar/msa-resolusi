@@ -1,0 +1,7 @@
+RENCANA KONTEN MSA
+- JavaScript
+  * ES6
+  * framework JavaScript
+- PHP Frameworks
+- interview
+- vlogs
