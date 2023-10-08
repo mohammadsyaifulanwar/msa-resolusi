@@ -2,6 +2,7 @@ RENCANA KONTEN MSA
 - JavaScript
   * ES6
   * framework JavaScript
+- struktur data dasar
 - PHP Frameworks
 - interview
 - vlogs
